@@ -1,4 +1,4 @@
-# angular-muse
+# EEG
 
 Connect to the Muse EEG Headset (2016 Edition) through Web Bluetooth
 
