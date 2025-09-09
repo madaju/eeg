@@ -58,6 +58,7 @@
     "ts-node": "~2.0.0",
     "tslint": "^5.8.0",
     "typescript": "~2.7.2"
+    "upath": "^2.0.1"
   },
   "jest": {
     "preset": "jest-preset-angular",
